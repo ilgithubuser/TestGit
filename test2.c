@@ -1,1 +1,2 @@
-#define TEST_CONSTANT	1
+#define TEST_CONSTANT_1	1
+#define TEST_CONSTANT_2	200
